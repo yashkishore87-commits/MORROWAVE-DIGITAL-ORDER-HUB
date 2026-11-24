@@ -1,0 +1,7 @@
+
+node_modules/
+.env
+dist/
+orders.db
+sessions.sqlite
+.DS_Store
